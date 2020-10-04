@@ -8,16 +8,20 @@ categories: jekyll update
 GitHub과 jekyll을 활용한 블로그 작성 시도를 한 후 처음 작성해 보는 텍스트다.
 마음에 들 것 같다.
 
-... which is shown in the screenshot below:
-![My helpful screenshot](/assets/my_photo.jpg)
+사진을 띄워 주려면 아래와 같이 하면 된다.
 
-... you can get file below:
-[Link to a file](/assets/data-employee-500row.txt)
+`![My helpful screenshot](/assets/dice.jpg)`
+![My helpful screenshot](/assets/dice.jpg)
 
-Jekyll also offers powerful support for code snippets:
+첨부 text file을 볼 수 있게 만들려면 아래와 같이 하면 된다.
+
+`[Link to a file](/assets/test.txt)`
+[Link to a file](/assets/test.txt)
+
+코드 공유 예제다.
 
 {% highlight ruby %}
-table a1
+print a1
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
