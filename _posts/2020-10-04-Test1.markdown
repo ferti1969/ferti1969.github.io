@@ -25,6 +25,18 @@ print a1
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+다음은 이 블로그를 만드는 데까지 참고한 웹 자료들이다.
+https://soojae.tistory.com/16
+https://midas123.tistory.com/224
+https://cofs.tistory.com/421
+https://blog.naver.com/PostView.nhn?blogId=sharplee7&logNo=221404488454
+https://dnight.tistory.com/entry/GitHubio-페이지-만들기
+https://inasie.github.io/it일반/github-blog-만들기/
+https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links
+https://talk.jekyllrb.com/t/how-can-i-ensure-my-links-open-in-a-new-tab/4318
+https://jetalog.net/86
+https://jetalog.net/87?category=808871
+
 Check out the [my tistory blog][Tistory-blog]{:target="_blank"} for more info.
 
 [Tistory-blog]: https://ferti1969.tistory.com
